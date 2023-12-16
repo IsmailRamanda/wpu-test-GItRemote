@@ -9,6 +9,7 @@
 
 <body>
     <h1>ini file php</h1>
+    <p>hello world</p>
 </body>
 
 </html>
